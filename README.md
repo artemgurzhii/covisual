@@ -1,7 +1,6 @@
 # covisual
 
-https://lolmaus.github.io/covisual/
-
+Kudos to the https://lolmaus.github.io/covisual/
 
 
 ## What is this?
